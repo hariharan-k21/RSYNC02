@@ -1,2 +1,2 @@
 # RSYNC02
-Demonstrating RSYNC with Jenkins at JUly23
+Demonstrating RSYNC with Jenkins at July23
